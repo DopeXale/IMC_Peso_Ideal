@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMC_Peso_Ideal</string>
+    <string name="imc_y_peso_ideal">IMC y Peso Ideal</string>
+    <string name="ingresa_tu_peso">Ingresa tu peso</string>
+    <string name="peso">Peso:</string>
+    <string name="estatura">Estatura:</string>
+    <string name="ingresa_tu_estatura">Ingresa tu estatura</string>
+    <string name="escoge_tu_genero">Escoge tu genero:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="calcular">Calcular</string>
+    <string name="ingresa_tu_estatura_en_mts">Ingresa tu estatura en mts</string>
+    <string name="ingresa_tu_peso_en_kg">Ingresa tu peso en kg</string>
+    <string name="reset">Reset</string>
+</resources>
